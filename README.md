@@ -10,6 +10,8 @@
  
   Build -> Rebuild Project
  
+ OR
+ 
  Eclipse: 
  
   Clean & build 
